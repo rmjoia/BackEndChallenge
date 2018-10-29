@@ -1,0 +1,14 @@
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/bin/Debug/netcoreapp2.1/BackEndChallenge.API.deps.json
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/bin/Debug/netcoreapp2.1/BackEndChallenge.API.runtimeconfig.json
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/bin/Debug/netcoreapp2.1/BackEndChallenge.API.runtimeconfig.dev.json
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/bin/Debug/netcoreapp2.1/BackEndChallenge.API.dll
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/bin/Debug/netcoreapp2.1/BackEndChallenge.API.pdb
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/obj/Debug/netcoreapp2.1/BackEndChallenge.API.csprojAssemblyReference.cache
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/obj/Debug/netcoreapp2.1/BackEndChallenge.API.csproj.CoreCompileInputs.cache
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/obj/Debug/netcoreapp2.1/BackEndChallenge.API.RazorAssemblyInfo.cache
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/obj/Debug/netcoreapp2.1/BackEndChallenge.API.RazorAssemblyInfo.cs
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/obj/Debug/netcoreapp2.1/BackEndChallenge.API.AssemblyInfoInputs.cache
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/obj/Debug/netcoreapp2.1/BackEndChallenge.API.AssemblyInfo.cs
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/obj/Debug/netcoreapp2.1/BackEndChallenge.API.RazorTargetAssemblyInfo.cache
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/obj/Debug/netcoreapp2.1/BackEndChallenge.API.dll
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.API/obj/Debug/netcoreapp2.1/BackEndChallenge.API.pdb

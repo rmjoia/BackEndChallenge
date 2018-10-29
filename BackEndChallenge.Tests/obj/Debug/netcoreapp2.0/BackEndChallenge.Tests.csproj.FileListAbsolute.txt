@@ -1,0 +1,15 @@
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/bin/Debug/netcoreapp2.0/BackEndChallenge.Tests.deps.json
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/bin/Debug/netcoreapp2.0/BackEndChallenge.Tests.runtimeconfig.json
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/bin/Debug/netcoreapp2.0/BackEndChallenge.Tests.runtimeconfig.dev.json
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/bin/Debug/netcoreapp2.0/BackEndChallenge.Tests.dll
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/bin/Debug/netcoreapp2.0/BackEndChallenge.Tests.pdb
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/obj/Debug/netcoreapp2.0/BackEndChallenge.Tests.csprojAssemblyReference.cache
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/obj/Debug/netcoreapp2.0/BackEndChallenge.Tests.csproj.CoreCompileInputs.cache
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/obj/Debug/netcoreapp2.0/BackEndChallenge.Tests.AssemblyInfoInputs.cache
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/obj/Debug/netcoreapp2.0/BackEndChallenge.Tests.AssemblyInfo.cs
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/obj/Debug/netcoreapp2.0/BackEndChallenge.Tests.dll
+/Users/ricardojoia/Documents/Workshop/BackEndChallenge/BackEndChallenge.Tests/obj/Debug/netcoreapp2.0/BackEndChallenge.Tests.pdb
